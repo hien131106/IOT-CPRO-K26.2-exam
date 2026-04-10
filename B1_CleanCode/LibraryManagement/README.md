@@ -2,7 +2,7 @@
 
 # **1. What – Dự án là gì?**
 
-Đây là ứng dụng console quản lý thư viện viết bằng C với các chức năng:
+Đây là ứng dụng console quản lý thư viện viết bằng `C` với các chức năng:
 
 - Thêm - xoá - sửa - tìm kiếm sách. 
 - Quản lý người dùng. 
@@ -57,6 +57,9 @@ gcc -o library main.c Book/book.c Management/management.c Ultils/ultils.c User/u
 
 # Run
 ./library
+
+# Remove file compile (object/binary)
+make clean
 ```
 
 ---
