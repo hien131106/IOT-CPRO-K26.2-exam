@@ -1,10 +1,8 @@
 # LibraryManagement 
 
----
-
 # **1. What – Dự án là gì?**
 
-Đây là ứng dụng console quản lý thư viện viết bằng C:
+Đây là ứng dụng console quản lý thư viện viết bằng C với các chức năng:
 
 - Thêm - xoá - sửa - tìm kiếm sách. 
 - Quản lý người dùng. 
@@ -39,7 +37,7 @@ Mục tiêu của dự án là để học và thực hành:
 
 # **5. Where – Ứng dụng ở đâu?**
 
-- **Môi trường:**  Linux / Windows có hỗ trợ `gcc`.
+- Môi trường:  Linux / Windows có hỗ trợ `gcc`.
 - Dùng trong các bài học về quản lý hệ thống, debug, hoặc kiểm thử hệ thống.
 
 ---
