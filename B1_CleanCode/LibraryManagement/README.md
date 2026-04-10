@@ -2,9 +2,7 @@
 
 ---
 
-**1. What – Dự án là gì?**
-
----
+# **1. What – Dự án là gì?**
 
 Đây là ứng dụng console quản lý thư viện viết bằng C:
 
@@ -14,7 +12,7 @@
 
 ---
 
-**2. Why – Tại sao làm?**
+# **2. Why – Tại sao làm?**
 
 Mục tiêu của dự án là để học và thực hành:
 
@@ -24,14 +22,14 @@ Mục tiêu của dự án là để học và thực hành:
 
 ---
 
-**3. Who – Ai thực hiện?**
+# **3. Who – Ai thực hiện?**
 
 - **Tác giả:** Dương Trung Hiền
 - **Vai trò:** Sinh viên kỹ thuật / Embedded developer
 
 ---
 
-**4. When – Thời gian?**
+# **4. When – Thời gian?**
 
 - **Bắt đầu:** 3/2026
 - **Phiên bản:** v1.0 
@@ -39,14 +37,14 @@ Mục tiêu của dự án là để học và thực hành:
 
 ---
 
-**5. Where – Ứng dụng ở đâu?**
+# **5. Where – Ứng dụng ở đâu?**
 
 - **Môi trường:**  Linux / Windows có hỗ trợ `gcc`.
 - Dùng trong các bài học về quản lý hệ thống, debug, hoặc kiểm thử hệ thống.
 
 ---
 
-**6. How – Cách sử dụng**
+# **6. How – Cách sử dụng**
 
 Thực hiện trong thư mục `B1_CleanCode/LibraryManagement`:
 
