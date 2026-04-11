@@ -2,7 +2,8 @@
 
 ## 🎯 What (Dự án này là gì?)
 
-Đây là repository tổng hợp các **bài tập lập trình C** mà mình đã thực hiện trong quá trình học.  Bao gồm các bài cơ bản, nâng cao và các bài luyện clean code theo chuẩn **coding convention**.
+Đây là repository tổng hợp các **bài tập lập trình C** mà mình đã thực hiện trong quá trình học.  
+Bao gồm các bài cơ bản, nâng cao và các bài luyện clean code theo chuẩn **coding convention**.
 
 ---
 
