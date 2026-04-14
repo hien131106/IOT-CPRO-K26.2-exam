@@ -49,16 +49,16 @@ Mục tiêu của dự án là để học và thực hành:
 
 # **6. How – Cách sử dụng**
 
-Thực hiện trong thư mục `B5_OperatorsAndControlStructures`:
+Thực hiện trong thư mục `B7_FileSystem`:
 
 ```bash
-cd B5_OperatorsAndControlStructures
+cd B7_FileSystem
 
 # Build bằng Makefile (nếu có)
 make
 
 # Hoặc biên dịch thủ công :
-gcc -Wall -Wextra -std=c99 main.c led_driver.c -o main
+gcc -Wall -Wextra -std=c99 main.c filestat.c -o main
 
 # Run
 ./main
